@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning react...
 - 💞️ I’m looking to collaborate on anything FUN!
 - 📫 How to reach me ---> send a menssage
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .. love mountains and code
+- ⚡ Fun fact: love mountains and code
 
 Have Fun!
 

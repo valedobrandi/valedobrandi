@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @bernardo ramos
-- 👀 I’m interested in technology to improve lives
-- 🌱 I’m currently learning react...
-- 💞️ I’m looking to collaborate on anything FUN!
-- 📫 How to reach me ---> send a menssage
+- 👋 Hi, I’m @Bernardo Ramos
+- 👀 I’m interested in Technology to improve lives.
+- 📫 How to reach me valedobrandi@gmail.com
 - ⚡ Fun fact: love mountains and code
 
 Have Fun!

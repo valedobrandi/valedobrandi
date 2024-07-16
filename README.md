@@ -12,5 +12,4 @@ Have Fun!
 
 Some Projects:
 - Movie search app. https://react-usepopcorn.surge.sh/
-- Pixel Paint  https://projectPixelArt.surge.sh
 - TodoList: https://frontendtodolist.surge.sh/

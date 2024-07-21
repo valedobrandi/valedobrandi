@@ -11,5 +11,7 @@ GitHub
 Have Fun!
 
 Some Projects:
-- Movie search app. https://react-usepopcorn.surge.sh/
+
+- Recipe Search: http://app-recipes-beta.surge.sh/
+- Movie search app: https://react-usepopcorn.surge.sh/
 - TodoList: https://frontendtodolist.surge.sh/

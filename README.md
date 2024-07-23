@@ -10,8 +10,12 @@ GitHub
 
 Have Fun!
 
-Some Projects:
-
-- Recipe Search: http://app-recipes-beta.surge.sh/
-- Movie search app: https://react-usepopcorn.surge.sh/
-- TodoList: https://frontendtodolist.surge.sh/
+Projects:
+ 
+ 2024
+Recipe Search 
+   http://app-recipes-beta.surge.sh/  
+TodoList
+  https://frontendtodolist.surge.sh/
+Movie search app
+  https://react-usepopcorn.surge.sh/

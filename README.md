@@ -13,9 +13,6 @@ Have Fun!
 Projects:
  
  2024
-Recipe Search 
-   http://app-recipes-beta.surge.sh/  
-TodoList
-  https://frontendtodolist.surge.sh/
-Movie search app
-  https://react-usepopcorn.surge.sh/
+Recipe Search (http://app-recipes-beta.surge.sh/  
+TodoList (https://frontendtodolist.surge.sh/)
+Movie search app (https://react-usepopcorn.surge.sh/)

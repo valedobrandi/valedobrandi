@@ -7,11 +7,8 @@ Hi! I'm a Fullstack Developer with a passion for test-driven development, refact
 
 valedobrandi@gmail.com
 GitHub
-
 Have Fun!
-
 Projects:
- 
  2024
 Recipe Search (http://app-recipes-beta.surge.sh/  
 TodoList (https://frontendtodolist.surge.sh/)

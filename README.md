@@ -6,12 +6,9 @@
 
     valedobrandi@gmail.com 
 
-Hi! I'm a Fullstack Developer with a passion for test-driven development, refactoring, and writing clean code. My main tools are React.js, Node.js, and SQL databases. Through testing libraries and a dedication to building responsive websites, I thrive on using these technologies to develop scalable projects. I love collaborating with others, leveraging my teamwork skills in fast-paced environments.
+I'm a full-stack web developer dedicated to helping entrepreneurs build their online brands with reliable, user-friendly tools. I primarily work with TypeScript and Python to create scalable and efficient solutions, always committed to clean code and robust architecture. My work spans from creating responsive interfaces to developing RESTful APIs, always with the end-user experience in mind.
 
+I enjoy applying practices like MVC and test-driven development to build systems that are both maintainable and ready to grow alongside my clients’ goals. My mission is to simplify processes and accelerate the success of brands in the digital space.
 
- 
-- Recipe Search (http://app-recipes-beta.surge.sh/
-- TodoList (https://frontendtodolist.surge.sh/) 
-- Movie search app (https://react-usepopcorn.surge.sh/)
 
 

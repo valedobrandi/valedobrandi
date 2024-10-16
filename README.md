@@ -1,14 +1,16 @@
+## 💻
+```I transitioned into technology with a commitment to empowering entrepreneurs in the digital landscape. I specialize in utilizing TypeScript and Python to develop reliable and user-friendly tools that streamline processes and enhance brand visibility. My approach incorporates architectural principles such as the Model-View-Controller (MVC) pattern and RESTful APIs, enabling the creation of scalable and maintainable systems that adapt to evolving business needs.```
 
-    👋 Hi, I’m @Bernardo Ramos
-    👀 I’m interested in Technology to improve lives.
-    📫 How to reach me valedobrandi@gmail.com
-    ⚡ Fun fact: love mountains and code
+## 🛠️ **About My Work**
 
-    valedobrandi@gmail.com 
+You can access some of my work, where I create backend services using JavaScript (Express) and Python (Flask/Django). This includes server-rendered authentication and payment page integration.
 
-I'm a full-stack web developer dedicated to helping entrepreneurs build their online brands with reliable, user-friendly tools. I primarily work with TypeScript and Python to create scalable and efficient solutions, always committed to clean code and robust architecture. My work spans from creating responsive interfaces to developing RESTful APIs, always with the end-user experience in mind.
+There are many tools available to help grow an online business.  
 
-I enjoy applying practices like MVC and test-driven development to build systems that are both maintainable and ready to grow alongside my clients’ goals. My mission is to simplify processes and accelerate the success of brands in the digital space.
+[![My Skills](https://skillicons.dev/icons?i=aws,git,html,jest,mongodb,py,ts,react,&perline=10)](https://skillicons.dev)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valedobrandi&hide=issues,contribs)](https://github.com/valedobrandi/github-readme-stats) 
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valedobrandi&hide=css,html&layout=compact)](https://github.com/valedobrandi/github-readme-stats)  
+  
+<a href="www.linkedin.com/in/bernardoalramos"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  

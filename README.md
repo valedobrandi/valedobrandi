@@ -1,5 +1,14 @@
 ## 💻
-```I transitioned into technology with a commitment to empowering entrepreneurs in the digital landscape. I specialize in utilizing TypeScript and Python to develop reliable and user-friendly tools that streamline processes and enhance brand visibility. My approach incorporates architectural principles such as the Model-View-Controller (MVC) pattern and RESTful APIs, enabling the creation of scalable and maintainable systems that adapt to evolving business needs.```
+``` bash
+I primarily work with TypeScript, Python, and C/C++.
+My projects and studies focus mainly on Full Stack Web Development.
+I handle every stage, from deploying on servers using Docker and Nginx for flexibility and scalability to implementing security measures with Docker Secrets and HashiCorp Vault.
+On the backend, I build APIs with Node.js (Express) and Django.
+On the frontend, I strive to maximize React’s potential, especially with RTK (Redux Toolkit), which is an incredible tool.
+
+Over the past year, I have been dedicating myself to C/C++, a highly efficient language with enormous potential for embedded systems.
+Anyone interested in these technologies and looking to exchange ideas is always welcome to reach out!
+```
 
 ## 🛠️ **About My Work**
 

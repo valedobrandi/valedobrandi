@@ -1,5 +1,5 @@
 ## 💻
-``` bash
+``` 
 I primarily work with TypeScript, Python, and C/C++.
 My projects and studies focus mainly on Full Stack Web Development.
 I handle every stage, from deploying on servers using Docker and Nginx for flexibility and scalability to implementing security measures with Docker Secrets and HashiCorp Vault.
